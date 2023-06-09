@@ -230,7 +230,7 @@ function Dashboard() {
             <div className="timer">
               <Countdown
                 ref={timerRef}
-                date={Date.now() + time * 1}
+                date={Date.now() + time * 0.5}
                 autoStart={false}
                 renderer={renderer}
                 onComplete={onComplete}
