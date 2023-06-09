@@ -1,5 +1,5 @@
-# Dev Care: One stop solution to take care of your health as developers 👩‍💻
-One-stop solution to take care of your health as developers. Dev Care will help you to take care of your back, eyes, and ears while working. The solutions we are working with are as follows:
+# SensiCare: One stop solution to take care of your health as developers 👩‍💻
+One-stop solution to take care of your health as developers. SensiCare will help you to take care of your back, eyes, and ears while working. The solutions we are working with are as follows:
 
 ## Features
 
@@ -56,7 +56,7 @@ You’ll receive reminders for doing the exercise, if your posture is incorrect 
 
 ### Analysis📊
 
-Dev Care will perform an analysis of your habits and visualize them through different charts. For back care, a pie chart is used to visualize how many times you are found sitting in good and bad posture. For eye care, a line chart is used to depict how many times a day you follow the exercise. For ear care, a bar graph is used to depict the daily usage of earphones.
+SensiCare will perform an analysis of your habits and visualize them through different charts. For back care, a pie chart is used to visualize how many times you are found sitting in good and bad posture. For eye care, a line chart is used to depict how many times a day you follow the exercise. For ear care, a bar graph is used to depict the daily usage of earphones.
 
 
 ![ezgif.com-gif-maker (5).gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1646063976757/ElQyRLH3h.gif)
