@@ -8,7 +8,7 @@ const Nav = () => {
         <Link to="/">
         <div className="logo">
           <img src="./assets/fire-symbol.png" alt="" className="logo-img" />
-          <span className="logo-title"><center>SensiCare</center></span>
+          <span className="logo-title">SensiCare</span>
         </div>
         </Link>
       </div>
