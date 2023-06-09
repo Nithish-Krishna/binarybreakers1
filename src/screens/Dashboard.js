@@ -19,7 +19,7 @@ import * as tf from "@tensorflow/tfjs";
 import { model } from "@tensorflow/tfjs";
 import Onboarding from "../components/onboarding/Onboarding";
 
-const renderer = ({ hours=0, minutes=0, seconds=20, completed }) => {
+const renderer = ({ hours, minutes, seconds, completed }) => {
   if (completed) {
     return (
       <TimerClock
